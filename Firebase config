@@ -1,0 +1,9 @@
+// Firebase configuration
+export const firebaseConfig = {
+  apiKey: "AIzaSyAmIOqU_IS6Y5518OqIa4h0DfWABa2TIRs",
+  authDomain: "handmatch-ai.firebaseapp.com",
+  projectId: "handmatch-ai",
+  storageBucket: "handmatch-ai.appspot.com",
+  messagingSenderId: "222748623282",
+  appId: "1:222748623282:web:a7013cf55bd6d824fb64ab"
+};
